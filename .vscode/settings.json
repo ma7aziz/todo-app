@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\Users\\Mahmoud\\.virtualenvs\\to-do_list_flask-Gr0Wv-V5\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
+}
